@@ -1,0 +1,242 @@
+start
+Multi-version YAFFS built:Nov 10 2013 05:12:54
+
+
+Device 0 "NAND simulator partition 0"
+start_block.......... 0
+end_block............ 1023
+total_bytes_per_chunk 512
+use_nand_ecc......... 1
+no_tags_ecc.......... 0
+is_yaffs2............ 0
+inband_tags.......... 0
+empty_lost_n_found... 1
+disable_lazy_load.... 0
+refresh_period....... 500
+n_caches............. 10
+n_reserved_blocks.... 5
+always_check_erased.. 0
+
+max file size....... 137438952960
+data_bytes_per_chunk. 512
+chunk_grp_bits....... 0
+chunk_grp_size....... 1
+n_erased_blocks...... 190
+blocks_in_checkpt.... 0
+
+n_tnodes............. 1950
+n_obj................ 17
+n_free_chunks........ 6130
+
+n_page_writes........ 71794
+n_page_reads......... 2113
+n_erasures........... 705
+n_gc_copies.......... 4
+all_gcs.............. 2
+passive_gc_count..... 2
+oldest_dirty_gc_count 0
+n_gc_blocks.......... 2
+bg_gcs............... 2
+n_retried_writes..... 0
+n_retired_blocks..... 0
+n_ecc_fixed.......... 0
+n_ecc_unfixed........ 0
+n_tags_ecc_fixed..... 0
+n_tags_ecc_unfixed... 0
+cache_hits........... 0
+n_deleted_files...... 0
+n_unlinked_files..... 0
+refresh_count........ 0
+n_bg_deletions....... 0
+tags_used............ 0
+summary_used......... 0
+Multi-version YAFFS built:Nov 10 2013 05:12:54
+
+
+Device 0 "NAND simulator partition 0"
+start_block.......... 0
+end_block............ 1023
+total_bytes_per_chunk 512
+use_nand_ecc......... 1
+no_tags_ecc.......... 0
+is_yaffs2............ 0
+inband_tags.......... 0
+empty_lost_n_found... 1
+disable_lazy_load.... 0
+refresh_period....... 500
+n_caches............. 10
+n_reserved_blocks.... 5
+always_check_erased.. 0
+
+max file size....... 137438952960
+data_bytes_per_chunk. 512
+chunk_grp_bits....... 0
+chunk_grp_size....... 1
+n_erased_blocks...... 190
+blocks_in_checkpt.... 0
+
+n_tnodes............. 162
+n_obj................ 17
+n_free_chunks........ 30706
+
+n_page_writes........ 71818
+n_page_reads......... 2140
+n_erasures........... 705
+n_gc_copies.......... 4
+all_gcs.............. 5
+passive_gc_count..... 5
+oldest_dirty_gc_count 0
+n_gc_blocks.......... 3
+bg_gcs............... 2
+n_retried_writes..... 0
+n_retired_blocks..... 0
+n_ecc_fixed.......... 0
+n_ecc_unfixed........ 0
+n_tags_ecc_fixed..... 0
+n_tags_ecc_unfixed... 0
+cache_hits........... 0
+n_deleted_files...... 12
+n_unlinked_files..... 12
+refresh_count........ 0
+n_bg_deletions....... 0
+tags_used............ 0
+summary_used......... 0
+After sleep 2
+Multi-version YAFFS built:Nov 10 2013 05:12:54
+
+
+Device 0 "NAND simulator partition 0"
+start_block.......... 0
+end_block............ 1023
+total_bytes_per_chunk 512
+use_nand_ecc......... 1
+no_tags_ecc.......... 0
+is_yaffs2............ 0
+inband_tags.......... 0
+empty_lost_n_found... 1
+disable_lazy_load.... 0
+refresh_period....... 500
+n_caches............. 10
+n_reserved_blocks.... 5
+always_check_erased.. 0
+
+max file size....... 137438952960
+data_bytes_per_chunk. 512
+chunk_grp_bits....... 0
+chunk_grp_size....... 1
+n_erased_blocks...... 193
+blocks_in_checkpt.... 0
+
+n_tnodes............. 162
+n_obj................ 17
+n_free_chunks........ 30706
+
+n_page_writes........ 71820
+n_page_reads......... 2246
+n_erasures........... 708
+n_gc_copies.......... 4
+all_gcs.............. 28
+passive_gc_count..... 28
+oldest_dirty_gc_count 0
+n_gc_blocks.......... 6
+bg_gcs............... 5
+n_retried_writes..... 0
+n_retired_blocks..... 0
+n_ecc_fixed.......... 0
+n_ecc_unfixed........ 0
+n_tags_ecc_fixed..... 0
+n_tags_ecc_unfixed... 0
+cache_hits........... 0
+n_deleted_files...... 12
+n_unlinked_files..... 12
+refresh_count........ 0
+n_bg_deletions....... 0
+tags_used............ 0
+summary_used......... 0
+1024+0 records in
+1024+0 records out
+1048576 bytes (1.0 MB) copied, 0.149067 s, 7.0 MB/s
+1024+0 records in
+1024+0 records out
+1048576 bytes (1.0 MB) copied, 0.140836 s, 7.4 MB/s
+1024+0 records in
+1024+0 records out
+1048576 bytes (1.0 MB) copied, 0.141725 s, 7.4 MB/s
+1024+0 records in
+1024+0 records out
+1048576 bytes (1.0 MB) copied, 0.1468 s, 7.1 MB/s
+1024+0 records in
+1024+0 records out
+1048576 bytes (1.0 MB) copied, 0.141786 s, 7.4 MB/s
+1024+0 records in
+1024+0 records out
+1048576 bytes (1.0 MB) copied, 0.142125 s, 7.4 MB/s
+1024+0 records in
+1024+0 records out
+1048576 bytes (1.0 MB) copied, 0.143346 s, 7.3 MB/s
+1024+0 records in
+1024+0 records out
+1048576 bytes (1.0 MB) copied, 0.139397 s, 7.5 MB/s
+1024+0 records in
+1024+0 records out
+1048576 bytes (1.0 MB) copied, 0.141186 s, 7.4 MB/s
+1024+0 records in
+1024+0 records out
+1048576 bytes (1.0 MB) copied, 0.144489 s, 7.3 MB/s
+1024+0 records in
+1024+0 records out
+1048576 bytes (1.0 MB) copied, 0.14564 s, 7.2 MB/s
+1024+0 records in
+1024+0 records out
+1048576 bytes (1.0 MB) copied, 0.139625 s, 7.5 MB/s
+Multi-version YAFFS built:Nov 10 2013 05:12:54
+
+
+Device 0 "NAND simulator partition 0"
+start_block.......... 0
+end_block............ 1023
+total_bytes_per_chunk 512
+use_nand_ecc......... 1
+no_tags_ecc.......... 0
+is_yaffs2............ 0
+inband_tags.......... 0
+empty_lost_n_found... 1
+disable_lazy_load.... 0
+refresh_period....... 500
+n_caches............. 10
+n_reserved_blocks.... 5
+always_check_erased.. 0
+
+max file size....... 137438952960
+data_bytes_per_chunk. 512
+chunk_grp_bits....... 0
+chunk_grp_size....... 1
+n_erased_blocks...... 48
+blocks_in_checkpt.... 0
+
+n_tnodes............. 1953
+n_obj................ 20
+n_free_chunks........ 6127
+
+n_page_writes........ 96447
+n_page_reads......... 22189
+n_erasures........... 1332
+n_gc_copies.......... 4
+all_gcs.............. 4380
+passive_gc_count..... 4380
+oldest_dirty_gc_count 0
+n_gc_blocks.......... 629
+bg_gcs............... 19
+n_retried_writes..... 0
+n_retired_blocks..... 0
+n_ecc_fixed.......... 0
+n_ecc_unfixed........ 0
+n_tags_ecc_fixed..... 0
+n_tags_ecc_unfixed... 0
+cache_hits........... 0
+n_deleted_files...... 3
+n_unlinked_files..... 12
+refresh_count........ 0
+n_bg_deletions....... 0
+tags_used............ 0
+summary_used......... 0

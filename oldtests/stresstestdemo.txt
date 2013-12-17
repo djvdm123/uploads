@@ -1,0 +1,31 @@
+!!!!! Fill from 1 percent to 78 percent
+!!!!!! File size is 552594
+1+0 records in
+1+0 records out
+552594 bytes (553 kB) copied, 0.0874323 s, 6.3 MB/s
+Creating in directory /mnt/yaffs2/stress_dir/25651-dir
+!!!!!! File size is 156343
+1+0 records in
+1+0 records out
+156343 bytes (156 kB) copied, 0.0185884 s, 8.4 MB/s
+Creating in directory /mnt/yaffs2/stress_dir/25006-dir
+!!!!! Fill from 79 percent to 92 percent
+!!!!!! File size is 1624756
+1+0 records in
+1+0 records out
+1624756 bytes (1.6 MB) copied, 0.199936 s, 8.1 MB/s
+Creating in directory /mnt/yaffs2/stress_dir/3715-dir
+!!!!! Quickly reduce usage from 98 percent to 54 percent
+!!!!! Quickly reduce usage from 21 percent to 7 percent
+!!!!!!!!! S L E E P  67
+ Sleep completed 
+!!!!!!!!! R E M O U N T 1 from 2427
+!!!!!!!!! R E M O U N T 2 from 6892
+!!!!!!!!! R E M O U N T 3 from 7760
+!!!!!!!!! R E M O U N T 4 from 10997
+!!!!!!!!! S L E E P  8
+ Sleep completed 
+!!!!!!!!! R E M O U N T 5 from 12537
+!!!!!!!!! S L E E P  70
+ Sleep completed 
+!!!!!!!!! R E M O U N T 6 from 14108

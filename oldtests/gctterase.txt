@@ -1,0 +1,1502 @@
+start
+# 1
+duration=0
+n_tnodes............. 14
+n_obj................ 18
+n_free_chunks........ 32753
+
+n_page_writes........ 43600
+n_page_reads......... 6671
+n_erasures........... 313
+n_gc_copies.......... 3
+all_gcs.............. 990
+passive_gc_count..... 986
+oldest_dirty_gc_count 0
+n_gc_blocks.......... 146
+bg_gcs............... 139
+# 2
+duration=1
+n_tnodes............. 14
+n_obj................ 18
+n_free_chunks........ 32753
+
+n_page_writes........ 43600
+n_page_reads......... 6755
+n_erasures........... 315
+n_gc_copies.......... 3
+all_gcs.............. 1008
+passive_gc_count..... 1004
+oldest_dirty_gc_count 0
+n_gc_blocks.......... 148
+bg_gcs............... 141
+# 3
+duration=2
+n_tnodes............. 14
+n_obj................ 18
+n_free_chunks........ 32753
+
+n_page_writes........ 43600
+n_page_reads......... 6836
+n_erasures........... 318
+n_gc_copies.......... 3
+all_gcs.............. 1026
+passive_gc_count..... 1022
+oldest_dirty_gc_count 0
+n_gc_blocks.......... 151
+bg_gcs............... 144
+# 4
+duration=3
+n_tnodes............. 14
+n_obj................ 18
+n_free_chunks........ 32753
+
+n_page_writes........ 43600
+n_page_reads......... 6920
+n_erasures........... 320
+n_gc_copies.......... 3
+all_gcs.............. 1044
+passive_gc_count..... 1040
+oldest_dirty_gc_count 0
+n_gc_blocks.......... 153
+bg_gcs............... 146
+# 5
+duration=4
+n_tnodes............. 14
+n_obj................ 18
+n_free_chunks........ 32753
+
+n_page_writes........ 43600
+n_page_reads......... 7001
+n_erasures........... 323
+n_gc_copies.......... 3
+all_gcs.............. 1062
+passive_gc_count..... 1058
+oldest_dirty_gc_count 0
+n_gc_blocks.......... 156
+bg_gcs............... 149
+# 6
+duration=5
+n_tnodes............. 14
+n_obj................ 18
+n_free_chunks........ 32753
+
+n_page_writes........ 43600
+n_page_reads......... 7082
+n_erasures........... 326
+n_gc_copies.......... 3
+all_gcs.............. 1080
+passive_gc_count..... 1076
+oldest_dirty_gc_count 0
+n_gc_blocks.......... 158
+bg_gcs............... 151
+# 7
+duration=6
+n_tnodes............. 14
+n_obj................ 18
+n_free_chunks........ 32753
+
+n_page_writes........ 43600
+n_page_reads......... 7171
+n_erasures........... 328
+n_gc_copies.......... 3
+all_gcs.............. 1099
+passive_gc_count..... 1095
+oldest_dirty_gc_count 0
+n_gc_blocks.......... 161
+bg_gcs............... 154
+# 8
+duration=7
+n_tnodes............. 14
+n_obj................ 18
+n_free_chunks........ 32753
+
+n_page_writes........ 43600
+n_page_reads......... 7247
+n_erasures........... 331
+n_gc_copies.......... 3
+all_gcs.............. 1116
+passive_gc_count..... 1112
+oldest_dirty_gc_count 0
+n_gc_blocks.......... 164
+bg_gcs............... 157
+# 9
+duration=8
+n_tnodes............. 14
+n_obj................ 18
+n_free_chunks........ 32753
+
+n_page_writes........ 43600
+n_page_reads......... 7331
+n_erasures........... 333
+n_gc_copies.......... 3
+all_gcs.............. 1134
+passive_gc_count..... 1130
+oldest_dirty_gc_count 0
+n_gc_blocks.......... 166
+bg_gcs............... 159
+# 10
+duration=9
+n_tnodes............. 14
+n_obj................ 18
+n_free_chunks........ 32753
+
+n_page_writes........ 43600
+n_page_reads......... 7402
+n_erasures........... 336
+n_gc_copies.......... 3
+all_gcs.............. 1150
+passive_gc_count..... 1146
+oldest_dirty_gc_count 0
+n_gc_blocks.......... 168
+bg_gcs............... 161
+# 11
+duration=10
+n_tnodes............. 14
+n_obj................ 18
+n_free_chunks........ 32753
+
+n_page_writes........ 43600
+n_page_reads......... 7491
+n_erasures........... 338
+n_gc_copies.......... 3
+all_gcs.............. 1169
+passive_gc_count..... 1165
+oldest_dirty_gc_count 0
+n_gc_blocks.......... 171
+bg_gcs............... 164
+# 12
+duration=11
+n_tnodes............. 14
+n_obj................ 18
+n_free_chunks........ 32753
+
+n_page_writes........ 43600
+n_page_reads......... 7560
+n_erasures........... 340
+n_gc_copies.......... 3
+all_gcs.............. 1184
+passive_gc_count..... 1180
+oldest_dirty_gc_count 0
+n_gc_blocks.......... 173
+bg_gcs............... 166
+# 13
+duration=12
+n_tnodes............. 14
+n_obj................ 18
+n_free_chunks........ 32753
+
+n_page_writes........ 43600
+n_page_reads......... 7636
+n_erasures........... 343
+n_gc_copies.......... 3
+all_gcs.............. 1201
+passive_gc_count..... 1197
+oldest_dirty_gc_count 0
+n_gc_blocks.......... 176
+bg_gcs............... 169
+# 14
+duration=13
+n_tnodes............. 14
+n_obj................ 18
+n_free_chunks........ 32753
+
+n_page_writes........ 43600
+n_page_reads......... 7720
+n_erasures........... 345
+n_gc_copies.......... 3
+all_gcs.............. 1219
+passive_gc_count..... 1215
+oldest_dirty_gc_count 0
+n_gc_blocks.......... 178
+bg_gcs............... 171
+# 15
+duration=14
+n_tnodes............. 14
+n_obj................ 18
+n_free_chunks........ 32753
+
+n_page_writes........ 43600
+n_page_reads......... 7801
+n_erasures........... 348
+n_gc_copies.......... 3
+all_gcs.............. 1237
+passive_gc_count..... 1233
+oldest_dirty_gc_count 0
+n_gc_blocks.......... 181
+bg_gcs............... 174
+# 16
+duration=15
+n_tnodes............. 14
+n_obj................ 18
+n_free_chunks........ 32753
+
+n_page_writes........ 43600
+n_page_reads......... 7882
+n_erasures........... 351
+n_gc_copies.......... 3
+all_gcs.............. 1255
+passive_gc_count..... 1251
+oldest_dirty_gc_count 0
+n_gc_blocks.......... 183
+bg_gcs............... 176
+# 17
+duration=16
+n_tnodes............. 14
+n_obj................ 18
+n_free_chunks........ 32753
+
+n_page_writes........ 43600
+n_page_reads......... 7966
+n_erasures........... 353
+n_gc_copies.......... 3
+all_gcs.............. 1273
+passive_gc_count..... 1269
+oldest_dirty_gc_count 0
+n_gc_blocks.......... 186
+bg_gcs............... 179
+# 18
+duration=17
+n_tnodes............. 14
+n_obj................ 18
+n_free_chunks........ 32753
+
+n_page_writes........ 43600
+n_page_reads......... 8047
+n_erasures........... 356
+n_gc_copies.......... 3
+all_gcs.............. 1291
+passive_gc_count..... 1287
+oldest_dirty_gc_count 0
+n_gc_blocks.......... 189
+bg_gcs............... 182
+# 19
+duration=18
+n_tnodes............. 14
+n_obj................ 18
+n_free_chunks........ 32753
+
+n_page_writes........ 43600
+n_page_reads......... 8131
+n_erasures........... 358
+n_gc_copies.......... 3
+all_gcs.............. 1309
+passive_gc_count..... 1305
+oldest_dirty_gc_count 0
+n_gc_blocks.......... 191
+bg_gcs............... 184
+# 20
+duration=19
+n_tnodes............. 14
+n_obj................ 18
+n_free_chunks........ 32753
+
+n_page_writes........ 43600
+n_page_reads......... 8212
+n_erasures........... 361
+n_gc_copies.......... 3
+all_gcs.............. 1327
+passive_gc_count..... 1323
+oldest_dirty_gc_count 0
+n_gc_blocks.......... 194
+bg_gcs............... 187
+# 21
+duration=20
+n_tnodes............. 14
+n_obj................ 18
+n_free_chunks........ 32753
+
+n_page_writes........ 43600
+n_page_reads......... 8266
+n_erasures........... 363
+n_gc_copies.......... 3
+all_gcs.............. 1339
+passive_gc_count..... 1335
+oldest_dirty_gc_count 0
+n_gc_blocks.......... 195
+bg_gcs............... 188
+# 22
+duration=21
+n_tnodes............. 13
+n_obj................ 17
+n_free_chunks........ 32754
+
+n_page_writes........ 43601
+n_page_reads......... 8328
+n_erasures........... 365
+n_gc_copies.......... 3
+all_gcs.............. 1352
+passive_gc_count..... 1348
+oldest_dirty_gc_count 0
+n_gc_blocks.......... 197
+bg_gcs............... 190
+# 23
+duration=22
+n_tnodes............. 13
+n_obj................ 17
+n_free_chunks........ 32754
+
+n_page_writes........ 43601
+n_page_reads......... 8407
+n_erasures........... 367
+n_gc_copies.......... 3
+all_gcs.............. 1369
+passive_gc_count..... 1365
+oldest_dirty_gc_count 0
+n_gc_blocks.......... 200
+bg_gcs............... 193
+# 24
+duration=23
+n_tnodes............. 13
+n_obj................ 17
+n_free_chunks........ 32754
+
+n_page_writes........ 43601
+n_page_reads......... 8481
+n_erasures........... 369
+n_gc_copies.......... 3
+all_gcs.............. 1385
+passive_gc_count..... 1381
+oldest_dirty_gc_count 0
+n_gc_blocks.......... 202
+bg_gcs............... 195
+# 25
+duration=24
+n_tnodes............. 13
+n_obj................ 17
+n_free_chunks........ 32754
+
+n_page_writes........ 43601
+n_page_reads......... 8557
+n_erasures........... 372
+n_gc_copies.......... 3
+all_gcs.............. 1402
+passive_gc_count..... 1398
+oldest_dirty_gc_count 0
+n_gc_blocks.......... 205
+bg_gcs............... 198
+# 26
+duration=25
+n_tnodes............. 13
+n_obj................ 17
+n_free_chunks........ 32754
+
+n_page_writes........ 43601
+n_page_reads......... 8641
+n_erasures........... 374
+n_gc_copies.......... 3
+all_gcs.............. 1420
+passive_gc_count..... 1416
+oldest_dirty_gc_count 0
+n_gc_blocks.......... 207
+bg_gcs............... 200
+# 27
+duration=26
+n_tnodes............. 13
+n_obj................ 17
+n_free_chunks........ 32754
+
+n_page_writes........ 43601
+n_page_reads......... 8722
+n_erasures........... 377
+n_gc_copies.......... 3
+all_gcs.............. 1438
+passive_gc_count..... 1434
+oldest_dirty_gc_count 0
+n_gc_blocks.......... 210
+bg_gcs............... 203
+# 28
+duration=27
+n_tnodes............. 13
+n_obj................ 17
+n_free_chunks........ 32754
+
+n_page_writes........ 43601
+n_page_reads......... 8806
+n_erasures........... 379
+n_gc_copies.......... 3
+all_gcs.............. 1456
+passive_gc_count..... 1452
+oldest_dirty_gc_count 0
+n_gc_blocks.......... 212
+bg_gcs............... 205
+# 29
+duration=28
+n_tnodes............. 13
+n_obj................ 17
+n_free_chunks........ 32754
+
+n_page_writes........ 43601
+n_page_reads......... 8887
+n_erasures........... 382
+n_gc_copies.......... 3
+all_gcs.............. 1474
+passive_gc_count..... 1470
+oldest_dirty_gc_count 0
+n_gc_blocks.......... 215
+bg_gcs............... 208
+# 30
+duration=29
+n_tnodes............. 13
+n_obj................ 17
+n_free_chunks........ 32754
+
+n_page_writes........ 43601
+n_page_reads......... 8968
+n_erasures........... 385
+n_gc_copies.......... 3
+all_gcs.............. 1492
+passive_gc_count..... 1488
+oldest_dirty_gc_count 0
+n_gc_blocks.......... 217
+bg_gcs............... 210
+# 31
+duration=30
+n_tnodes............. 13
+n_obj................ 17
+n_free_chunks........ 32754
+
+n_page_writes........ 43601
+n_page_reads......... 9052
+n_erasures........... 387
+n_gc_copies.......... 3
+all_gcs.............. 1510
+passive_gc_count..... 1506
+oldest_dirty_gc_count 0
+n_gc_blocks.......... 220
+bg_gcs............... 213
+# 32
+duration=31
+n_tnodes............. 13
+n_obj................ 17
+n_free_chunks........ 32754
+
+n_page_writes........ 43601
+n_page_reads......... 9133
+n_erasures........... 390
+n_gc_copies.......... 3
+all_gcs.............. 1528
+passive_gc_count..... 1524
+oldest_dirty_gc_count 0
+n_gc_blocks.......... 223
+bg_gcs............... 216
+# 33
+duration=32
+n_tnodes............. 13
+n_obj................ 17
+n_free_chunks........ 32754
+
+n_page_writes........ 43601
+n_page_reads......... 9217
+n_erasures........... 392
+n_gc_copies.......... 3
+all_gcs.............. 1546
+passive_gc_count..... 1542
+oldest_dirty_gc_count 0
+n_gc_blocks.......... 225
+bg_gcs............... 218
+# 34
+duration=33
+n_tnodes............. 13
+n_obj................ 17
+n_free_chunks........ 32754
+
+n_page_writes........ 43601
+n_page_reads......... 9298
+n_erasures........... 395
+n_gc_copies.......... 3
+all_gcs.............. 1564
+passive_gc_count..... 1560
+oldest_dirty_gc_count 0
+n_gc_blocks.......... 228
+bg_gcs............... 221
+# 35
+duration=34
+n_tnodes............. 13
+n_obj................ 17
+n_free_chunks........ 32754
+
+n_page_writes........ 43601
+n_page_reads......... 9382
+n_erasures........... 397
+n_gc_copies.......... 3
+all_gcs.............. 1582
+passive_gc_count..... 1578
+oldest_dirty_gc_count 0
+n_gc_blocks.......... 230
+bg_gcs............... 223
+# 36
+duration=35
+n_tnodes............. 13
+n_obj................ 17
+n_free_chunks........ 32754
+
+n_page_writes........ 43601
+n_page_reads......... 9463
+n_erasures........... 400
+n_gc_copies.......... 3
+all_gcs.............. 1600
+passive_gc_count..... 1596
+oldest_dirty_gc_count 0
+n_gc_blocks.......... 233
+bg_gcs............... 226
+# 37
+duration=36
+n_tnodes............. 13
+n_obj................ 17
+n_free_chunks........ 32754
+
+n_page_writes........ 43601
+n_page_reads......... 9544
+n_erasures........... 403
+n_gc_copies.......... 3
+all_gcs.............. 1618
+passive_gc_count..... 1614
+oldest_dirty_gc_count 0
+n_gc_blocks.......... 235
+bg_gcs............... 228
+# 38
+duration=37
+n_tnodes............. 13
+n_obj................ 17
+n_free_chunks........ 32754
+
+n_page_writes........ 43601
+n_page_reads......... 9606
+n_erasures........... 404
+n_gc_copies.......... 3
+all_gcs.............. 1631
+passive_gc_count..... 1627
+oldest_dirty_gc_count 0
+n_gc_blocks.......... 237
+bg_gcs............... 230
+# 39
+duration=38
+n_tnodes............. 13
+n_obj................ 17
+n_free_chunks........ 32754
+
+n_page_writes........ 43601
+n_page_reads......... 9687
+n_erasures........... 407
+n_gc_copies.......... 3
+all_gcs.............. 1649
+passive_gc_count..... 1645
+oldest_dirty_gc_count 0
+n_gc_blocks.......... 240
+bg_gcs............... 233
+# 40
+duration=39
+n_tnodes............. 13
+n_obj................ 17
+n_free_chunks........ 32754
+
+n_page_writes........ 43601
+n_page_reads......... 9768
+n_erasures........... 410
+n_gc_copies.......... 3
+all_gcs.............. 1667
+passive_gc_count..... 1663
+oldest_dirty_gc_count 0
+n_gc_blocks.......... 242
+bg_gcs............... 235
+# 41
+duration=40
+n_tnodes............. 13
+n_obj................ 17
+n_free_chunks........ 32754
+
+n_page_writes........ 43601
+n_page_reads......... 9852
+n_erasures........... 412
+n_gc_copies.......... 3
+all_gcs.............. 1685
+passive_gc_count..... 1681
+oldest_dirty_gc_count 0
+n_gc_blocks.......... 245
+bg_gcs............... 238
+# 42
+duration=41
+n_tnodes............. 13
+n_obj................ 17
+n_free_chunks........ 32754
+
+n_page_writes........ 43601
+n_page_reads......... 9933
+n_erasures........... 415
+n_gc_copies.......... 3
+all_gcs.............. 1703
+passive_gc_count..... 1699
+oldest_dirty_gc_count 0
+n_gc_blocks.......... 248
+bg_gcs............... 241
+# 43
+duration=42
+n_tnodes............. 13
+n_obj................ 17
+n_free_chunks........ 32754
+
+n_page_writes........ 43601
+n_page_reads......... 10017
+n_erasures........... 417
+n_gc_copies.......... 3
+all_gcs.............. 1721
+passive_gc_count..... 1717
+oldest_dirty_gc_count 0
+n_gc_blocks.......... 250
+bg_gcs............... 243
+# 44
+duration=43
+n_tnodes............. 13
+n_obj................ 17
+n_free_chunks........ 32754
+
+n_page_writes........ 43601
+n_page_reads......... 10098
+n_erasures........... 420
+n_gc_copies.......... 3
+all_gcs.............. 1739
+passive_gc_count..... 1735
+oldest_dirty_gc_count 0
+n_gc_blocks.......... 253
+bg_gcs............... 246
+# 45
+duration=44
+n_tnodes............. 13
+n_obj................ 17
+n_free_chunks........ 32754
+
+n_page_writes........ 43601
+n_page_reads......... 10125
+n_erasures........... 421
+n_gc_copies.......... 3
+all_gcs.............. 1745
+passive_gc_count..... 1741
+oldest_dirty_gc_count 0
+n_gc_blocks.......... 254
+bg_gcs............... 247
+# 46
+duration=45
+n_tnodes............. 13
+n_obj................ 17
+n_free_chunks........ 32754
+
+n_page_writes........ 43601
+n_page_reads......... 10157
+n_erasures........... 422
+n_gc_copies.......... 3
+all_gcs.............. 1752
+passive_gc_count..... 1748
+oldest_dirty_gc_count 0
+n_gc_blocks.......... 255
+bg_gcs............... 248
+# 47
+duration=46
+n_tnodes............. 13
+n_obj................ 17
+n_free_chunks........ 32754
+
+n_page_writes........ 43601
+n_page_reads......... 10204
+n_erasures........... 423
+n_gc_copies.......... 3
+all_gcs.............. 1762
+passive_gc_count..... 1758
+oldest_dirty_gc_count 0
+n_gc_blocks.......... 256
+bg_gcs............... 249
+# 48
+duration=47
+n_tnodes............. 13
+n_obj................ 17
+n_free_chunks........ 32754
+
+n_page_writes........ 43601
+n_page_reads......... 10214
+n_erasures........... 423
+n_gc_copies.......... 3
+all_gcs.............. 1764
+passive_gc_count..... 1760
+oldest_dirty_gc_count 0
+n_gc_blocks.......... 256
+bg_gcs............... 249
+# 49
+duration=48
+n_tnodes............. 13
+n_obj................ 17
+n_free_chunks........ 32754
+
+n_page_writes........ 43601
+n_page_reads......... 10253
+n_erasures........... 425
+n_gc_copies.......... 3
+all_gcs.............. 1773
+passive_gc_count..... 1769
+oldest_dirty_gc_count 0
+n_gc_blocks.......... 258
+bg_gcs............... 251
+# 50
+duration=49
+n_tnodes............. 13
+n_obj................ 17
+n_free_chunks........ 32754
+
+n_page_writes........ 43601
+n_page_reads......... 10295
+n_erasures........... 426
+n_gc_copies.......... 3
+all_gcs.............. 1782
+passive_gc_count..... 1778
+oldest_dirty_gc_count 0
+n_gc_blocks.......... 259
+bg_gcs............... 252
+# 51
+duration=50
+n_tnodes............. 13
+n_obj................ 17
+n_free_chunks........ 32754
+
+n_page_writes........ 43601
+n_page_reads......... 10337
+n_erasures........... 427
+n_gc_copies.......... 3
+all_gcs.............. 1791
+passive_gc_count..... 1787
+oldest_dirty_gc_count 0
+n_gc_blocks.......... 260
+bg_gcs............... 253
+# 52
+duration=51
+n_tnodes............. 12
+n_obj................ 16
+n_free_chunks........ 32755
+
+n_page_writes........ 43602
+n_page_reads......... 10384
+n_erasures........... 429
+n_gc_copies.......... 3
+all_gcs.............. 1801
+passive_gc_count..... 1797
+oldest_dirty_gc_count 0
+n_gc_blocks.......... 262
+bg_gcs............... 255
+# 53
+duration=53
+n_tnodes............. 12
+n_obj................ 16
+n_free_chunks........ 32755
+
+n_page_writes........ 43602
+n_page_reads......... 10426
+n_erasures........... 430
+n_gc_copies.......... 3
+all_gcs.............. 1810
+passive_gc_count..... 1806
+oldest_dirty_gc_count 0
+n_gc_blocks.......... 263
+bg_gcs............... 256
+# 54
+duration=54
+n_tnodes............. 12
+n_obj................ 16
+n_free_chunks........ 32755
+
+n_page_writes........ 43602
+n_page_reads......... 10453
+n_erasures........... 431
+n_gc_copies.......... 3
+all_gcs.............. 1816
+passive_gc_count..... 1812
+oldest_dirty_gc_count 0
+n_gc_blocks.......... 264
+bg_gcs............... 257
+# 55
+duration=55
+n_tnodes............. 12
+n_obj................ 16
+n_free_chunks........ 32755
+
+n_page_writes........ 43602
+n_page_reads......... 10500
+n_erasures........... 432
+n_gc_copies.......... 3
+all_gcs.............. 1826
+passive_gc_count..... 1822
+oldest_dirty_gc_count 0
+n_gc_blocks.......... 265
+bg_gcs............... 258
+# 56
+duration=56
+n_tnodes............. 12
+n_obj................ 16
+n_free_chunks........ 32755
+
+n_page_writes........ 43602
+n_page_reads......... 10539
+n_erasures........... 434
+n_gc_copies.......... 3
+all_gcs.............. 1835
+passive_gc_count..... 1831
+oldest_dirty_gc_count 0
+n_gc_blocks.......... 267
+bg_gcs............... 260
+# 57
+duration=57
+n_tnodes............. 12
+n_obj................ 16
+n_free_chunks........ 32755
+
+n_page_writes........ 43602
+n_page_reads......... 10581
+n_erasures........... 435
+n_gc_copies.......... 3
+all_gcs.............. 1844
+passive_gc_count..... 1840
+oldest_dirty_gc_count 0
+n_gc_blocks.......... 268
+bg_gcs............... 261
+# 58
+duration=58
+n_tnodes............. 12
+n_obj................ 16
+n_free_chunks........ 32755
+
+n_page_writes........ 43602
+n_page_reads......... 10628
+n_erasures........... 436
+n_gc_copies.......... 3
+all_gcs.............. 1854
+passive_gc_count..... 1850
+oldest_dirty_gc_count 0
+n_gc_blocks.......... 269
+bg_gcs............... 262
+# 59
+duration=59
+n_tnodes............. 12
+n_obj................ 16
+n_free_chunks........ 32755
+
+n_page_writes........ 43602
+n_page_reads......... 10667
+n_erasures........... 438
+n_gc_copies.......... 3
+all_gcs.............. 1863
+passive_gc_count..... 1859
+oldest_dirty_gc_count 0
+n_gc_blocks.......... 271
+bg_gcs............... 264
+# 60
+duration=60
+n_tnodes............. 12
+n_obj................ 16
+n_free_chunks........ 32755
+
+n_page_writes........ 43602
+n_page_reads......... 10709
+n_erasures........... 439
+n_gc_copies.......... 3
+all_gcs.............. 1872
+passive_gc_count..... 1868
+oldest_dirty_gc_count 0
+n_gc_blocks.......... 272
+bg_gcs............... 265
+# 61
+duration=61
+n_tnodes............. 12
+n_obj................ 16
+n_free_chunks........ 32755
+
+n_page_writes........ 43602
+n_page_reads......... 10756
+n_erasures........... 440
+n_gc_copies.......... 3
+all_gcs.............. 1882
+passive_gc_count..... 1878
+oldest_dirty_gc_count 0
+n_gc_blocks.......... 273
+bg_gcs............... 266
+# 62
+duration=62
+n_tnodes............. 12
+n_obj................ 16
+n_free_chunks........ 32755
+
+n_page_writes........ 43602
+n_page_reads......... 10783
+n_erasures........... 441
+n_gc_copies.......... 3
+all_gcs.............. 1888
+passive_gc_count..... 1884
+oldest_dirty_gc_count 0
+n_gc_blocks.......... 274
+bg_gcs............... 267
+# 63
+duration=63
+n_tnodes............. 12
+n_obj................ 16
+n_free_chunks........ 32755
+
+n_page_writes........ 43602
+n_page_reads......... 10815
+n_erasures........... 442
+n_gc_copies.......... 3
+all_gcs.............. 1895
+passive_gc_count..... 1891
+oldest_dirty_gc_count 0
+n_gc_blocks.......... 275
+bg_gcs............... 268
+# 64
+duration=64
+n_tnodes............. 12
+n_obj................ 16
+n_free_chunks........ 32755
+
+n_page_writes........ 43602
+n_page_reads......... 10859
+n_erasures........... 444
+n_gc_copies.......... 3
+all_gcs.............. 1905
+passive_gc_count..... 1901
+oldest_dirty_gc_count 0
+n_gc_blocks.......... 277
+bg_gcs............... 270
+# 65
+duration=65
+n_tnodes............. 12
+n_obj................ 16
+n_free_chunks........ 32755
+
+n_page_writes........ 43602
+n_page_reads......... 10896
+n_erasures........... 445
+n_gc_copies.......... 3
+all_gcs.............. 1913
+passive_gc_count..... 1909
+oldest_dirty_gc_count 0
+n_gc_blocks.......... 278
+bg_gcs............... 271
+# 66
+duration=66
+n_tnodes............. 12
+n_obj................ 16
+n_free_chunks........ 32755
+
+n_page_writes........ 43602
+n_page_reads......... 10938
+n_erasures........... 446
+n_gc_copies.......... 3
+all_gcs.............. 1922
+passive_gc_count..... 1918
+oldest_dirty_gc_count 0
+n_gc_blocks.......... 279
+bg_gcs............... 272
+# 67
+duration=67
+n_tnodes............. 12
+n_obj................ 16
+n_free_chunks........ 32755
+
+n_page_writes........ 43602
+n_page_reads......... 10986
+n_erasures........... 448
+n_gc_copies.......... 3
+all_gcs.............. 1933
+passive_gc_count..... 1929
+oldest_dirty_gc_count 0
+n_gc_blocks.......... 281
+bg_gcs............... 274
+# 68
+duration=68
+n_tnodes............. 12
+n_obj................ 16
+n_free_chunks........ 32755
+
+n_page_writes........ 43602
+n_page_reads......... 11028
+n_erasures........... 449
+n_gc_copies.......... 3
+all_gcs.............. 1942
+passive_gc_count..... 1938
+oldest_dirty_gc_count 0
+n_gc_blocks.......... 282
+bg_gcs............... 275
+# 69
+duration=69
+n_tnodes............. 12
+n_obj................ 16
+n_free_chunks........ 32755
+
+n_page_writes........ 43602
+n_page_reads......... 11060
+n_erasures........... 450
+n_gc_copies.......... 3
+all_gcs.............. 1949
+passive_gc_count..... 1945
+oldest_dirty_gc_count 0
+n_gc_blocks.......... 283
+bg_gcs............... 276
+# 70
+duration=70
+n_tnodes............. 12
+n_obj................ 16
+n_free_chunks........ 32755
+
+n_page_writes........ 43602
+n_page_reads......... 11102
+n_erasures........... 451
+n_gc_copies.......... 3
+all_gcs.............. 1958
+passive_gc_count..... 1954
+oldest_dirty_gc_count 0
+n_gc_blocks.......... 284
+bg_gcs............... 277
+# 71
+duration=71
+n_tnodes............. 12
+n_obj................ 16
+n_free_chunks........ 32755
+
+n_page_writes........ 43602
+n_page_reads......... 11146
+n_erasures........... 453
+n_gc_copies.......... 3
+all_gcs.............. 1968
+passive_gc_count..... 1964
+oldest_dirty_gc_count 0
+n_gc_blocks.......... 286
+bg_gcs............... 279
+# 72
+duration=72
+n_tnodes............. 12
+n_obj................ 16
+n_free_chunks........ 32755
+
+n_page_writes........ 43602
+n_page_reads......... 11188
+n_erasures........... 454
+n_gc_copies.......... 3
+all_gcs.............. 1977
+passive_gc_count..... 1973
+oldest_dirty_gc_count 0
+n_gc_blocks.......... 287
+bg_gcs............... 280
+# 73
+duration=73
+n_tnodes............. 12
+n_obj................ 16
+n_free_chunks........ 32755
+
+n_page_writes........ 43602
+n_page_reads......... 11230
+n_erasures........... 455
+n_gc_copies.......... 3
+all_gcs.............. 1986
+passive_gc_count..... 1982
+oldest_dirty_gc_count 0
+n_gc_blocks.......... 288
+bg_gcs............... 281
+# 74
+duration=74
+n_tnodes............. 12
+n_obj................ 16
+n_free_chunks........ 32755
+
+n_page_writes........ 43602
+n_page_reads......... 11269
+n_erasures........... 457
+n_gc_copies.......... 3
+all_gcs.............. 1995
+passive_gc_count..... 1991
+oldest_dirty_gc_count 0
+n_gc_blocks.......... 289
+bg_gcs............... 282
+# 75
+duration=75
+n_tnodes............. 12
+n_obj................ 16
+n_free_chunks........ 32755
+
+n_page_writes........ 43602
+n_page_reads......... 11316
+n_erasures........... 458
+n_gc_copies.......... 3
+all_gcs.............. 2005
+passive_gc_count..... 2001
+oldest_dirty_gc_count 0
+n_gc_blocks.......... 291
+bg_gcs............... 284
+# 76
+duration=76
+n_tnodes............. 12
+n_obj................ 16
+n_free_chunks........ 32755
+
+n_page_writes........ 43602
+n_page_reads......... 11358
+n_erasures........... 459
+n_gc_copies.......... 3
+all_gcs.............. 2014
+passive_gc_count..... 2010
+oldest_dirty_gc_count 0
+n_gc_blocks.......... 292
+bg_gcs............... 285
+# 77
+duration=77
+n_tnodes............. 12
+n_obj................ 16
+n_free_chunks........ 32755
+
+n_page_writes........ 43602
+n_page_reads......... 11397
+n_erasures........... 461
+n_gc_copies.......... 3
+all_gcs.............. 2023
+passive_gc_count..... 2019
+oldest_dirty_gc_count 0
+n_gc_blocks.......... 293
+bg_gcs............... 286
+# 78
+duration=78
+n_tnodes............. 12
+n_obj................ 16
+n_free_chunks........ 32755
+
+n_page_writes........ 43602
+n_page_reads......... 11444
+n_erasures........... 462
+n_gc_copies.......... 3
+all_gcs.............. 2033
+passive_gc_count..... 2029
+oldest_dirty_gc_count 0
+n_gc_blocks.......... 295
+bg_gcs............... 288
+# 79
+duration=79
+n_tnodes............. 12
+n_obj................ 16
+n_free_chunks........ 32755
+
+n_page_writes........ 43602
+n_page_reads......... 11486
+n_erasures........... 463
+n_gc_copies.......... 3
+all_gcs.............. 2042
+passive_gc_count..... 2038
+oldest_dirty_gc_count 0
+n_gc_blocks.......... 296
+bg_gcs............... 289
+# 80
+duration=80
+n_tnodes............. 12
+n_obj................ 16
+n_free_chunks........ 32755
+
+n_page_writes........ 43602
+n_page_reads......... 11518
+n_erasures........... 464
+n_gc_copies.......... 3
+all_gcs.............. 2049
+passive_gc_count..... 2045
+oldest_dirty_gc_count 0
+n_gc_blocks.......... 297
+bg_gcs............... 290
+# 81
+duration=81
+n_tnodes............. 12
+n_obj................ 16
+n_free_chunks........ 32755
+
+n_page_writes........ 43602
+n_page_reads......... 11557
+n_erasures........... 466
+n_gc_copies.......... 3
+all_gcs.............. 2058
+passive_gc_count..... 2054
+oldest_dirty_gc_count 0
+n_gc_blocks.......... 298
+bg_gcs............... 291
+# 82
+duration=82
+n_tnodes............. 12
+n_obj................ 16
+n_free_chunks........ 32755
+
+n_page_writes........ 43602
+n_page_reads......... 11599
+n_erasures........... 467
+n_gc_copies.......... 3
+all_gcs.............. 2067
+passive_gc_count..... 2063
+oldest_dirty_gc_count 0
+n_gc_blocks.......... 300
+bg_gcs............... 293
+# 83
+duration=83
+n_tnodes............. 12
+n_obj................ 16
+n_free_chunks........ 32755
+
+n_page_writes........ 43602
+n_page_reads......... 11646
+n_erasures........... 468
+n_gc_copies.......... 3
+all_gcs.............. 2077
+passive_gc_count..... 2073
+oldest_dirty_gc_count 0
+n_gc_blocks.......... 301
+bg_gcs............... 294
+# 84
+duration=84
+n_tnodes............. 12
+n_obj................ 16
+n_free_chunks........ 32755
+
+n_page_writes........ 43602
+n_page_reads......... 11685
+n_erasures........... 470
+n_gc_copies.......... 3
+all_gcs.............. 2086
+passive_gc_count..... 2082
+oldest_dirty_gc_count 0
+n_gc_blocks.......... 302
+bg_gcs............... 295
+# 85
+duration=85
+n_tnodes............. 12
+n_obj................ 16
+n_free_chunks........ 32755
+
+n_page_writes........ 43602
+n_page_reads......... 11727
+n_erasures........... 471
+n_gc_copies.......... 3
+all_gcs.............. 2095
+passive_gc_count..... 2091
+oldest_dirty_gc_count 0
+n_gc_blocks.......... 304
+bg_gcs............... 297
+# 86
+duration=86
+n_tnodes............. 12
+n_obj................ 16
+n_free_chunks........ 32755
+
+n_page_writes........ 43602
+n_page_reads......... 11774
+n_erasures........... 472
+n_gc_copies.......... 3
+all_gcs.............. 2105
+passive_gc_count..... 2101
+oldest_dirty_gc_count 0
+n_gc_blocks.......... 305
+bg_gcs............... 298
+# 87
+duration=87
+n_tnodes............. 12
+n_obj................ 16
+n_free_chunks........ 32755
+
+n_page_writes........ 43602
+n_page_reads......... 11813
+n_erasures........... 474
+n_gc_copies.......... 3
+all_gcs.............. 2114
+passive_gc_count..... 2110
+oldest_dirty_gc_count 0
+n_gc_blocks.......... 306
+bg_gcs............... 299
+# 88
+duration=88
+n_tnodes............. 12
+n_obj................ 16
+n_free_chunks........ 32755
+
+n_page_writes........ 43602
+n_page_reads......... 11843
+n_erasures........... 474
+n_gc_copies.......... 3
+all_gcs.............. 2120
+passive_gc_count..... 2116
+oldest_dirty_gc_count 0
+n_gc_blocks.......... 307
+bg_gcs............... 300
+# 89
+duration=89
+n_tnodes............. 12
+n_obj................ 16
+n_free_chunks........ 32755
+
+n_page_writes........ 43602
+n_page_reads......... 11882
+n_erasures........... 476
+n_gc_copies.......... 3
+all_gcs.............. 2129
+passive_gc_count..... 2125
+oldest_dirty_gc_count 0
+n_gc_blocks.......... 309
+bg_gcs............... 302
+# 90
+duration=90
+n_tnodes............. 12
+n_obj................ 16
+n_free_chunks........ 32755
+
+n_page_writes........ 43602
+n_page_reads......... 11924
+n_erasures........... 477
+n_gc_copies.......... 3
+all_gcs.............. 2138
+passive_gc_count..... 2134
+oldest_dirty_gc_count 0
+n_gc_blocks.......... 310
+bg_gcs............... 303
+# 91
+duration=91
+n_tnodes............. 12
+n_obj................ 16
+n_free_chunks........ 32755
+
+n_page_writes........ 43602
+n_page_reads......... 11971
+n_erasures........... 478
+n_gc_copies.......... 3
+all_gcs.............. 2148
+passive_gc_count..... 2144
+oldest_dirty_gc_count 0
+n_gc_blocks.......... 311
+bg_gcs............... 304
+# 92
+duration=92
+n_tnodes............. 12
+n_obj................ 16
+n_free_chunks........ 32755
+
+n_page_writes........ 43602
+n_page_reads......... 12010
+n_erasures........... 480
+n_gc_copies.......... 3
+all_gcs.............. 2157
+passive_gc_count..... 2153
+oldest_dirty_gc_count 0
+n_gc_blocks.......... 313
+bg_gcs............... 306
+# 93
+duration=93
+n_tnodes............. 12
+n_obj................ 16
+n_free_chunks........ 32755
+
+n_page_writes........ 43602
+n_page_reads......... 12052
+n_erasures........... 481
+n_gc_copies.......... 3
+all_gcs.............. 2166
+passive_gc_count..... 2162
+oldest_dirty_gc_count 0
+n_gc_blocks.......... 314
+bg_gcs............... 307
+# 94
+duration=94
+n_tnodes............. 12
+n_obj................ 16
+n_free_chunks........ 32755
+
+n_page_writes........ 43602
+n_page_reads......... 12079
+n_erasures........... 482
+n_gc_copies.......... 3
+all_gcs.............. 2172
+passive_gc_count..... 2168
+oldest_dirty_gc_count 0
+n_gc_blocks.......... 315
+bg_gcs............... 308
+# 95
+duration=95
+n_tnodes............. 12
+n_obj................ 16
+n_free_chunks........ 32755
+
+n_page_writes........ 43602
+n_page_reads......... 12126
+n_erasures........... 483
+n_gc_copies.......... 3
+all_gcs.............. 2182
+passive_gc_count..... 2178
+oldest_dirty_gc_count 0
+n_gc_blocks.......... 316
+bg_gcs............... 309
+# 96
+duration=96
+n_tnodes............. 12
+n_obj................ 16
+n_free_chunks........ 32755
+
+n_page_writes........ 43602
+n_page_reads......... 12165
+n_erasures........... 485
+n_gc_copies.......... 3
+all_gcs.............. 2191
+passive_gc_count..... 2187
+oldest_dirty_gc_count 0
+n_gc_blocks.......... 317
+bg_gcs............... 310
+# 97
+duration=97
+n_tnodes............. 12
+n_obj................ 16
+n_free_chunks........ 32755
+
+n_page_writes........ 43602
+n_page_reads......... 12207
+n_erasures........... 486
+n_gc_copies.......... 3
+all_gcs.............. 2200
+passive_gc_count..... 2196
+oldest_dirty_gc_count 0
+n_gc_blocks.......... 319
+bg_gcs............... 312
+# 98
+duration=98
+n_tnodes............. 12
+n_obj................ 16
+n_free_chunks........ 32755
+
+n_page_writes........ 43602
+n_page_reads......... 12249
+n_erasures........... 487
+n_gc_copies.......... 3
+all_gcs.............. 2209
+passive_gc_count..... 2205
+oldest_dirty_gc_count 0
+n_gc_blocks.......... 320
+bg_gcs............... 313
+# 99
+duration=99
+n_tnodes............. 12
+n_obj................ 16
+n_free_chunks........ 32755
+
+n_page_writes........ 43602
+n_page_reads......... 12291
+n_erasures........... 488
+n_gc_copies.......... 3
+all_gcs.............. 2218
+passive_gc_count..... 2214
+oldest_dirty_gc_count 0
+n_gc_blocks.......... 321
+bg_gcs............... 314
+# 100
+duration=100
+n_tnodes............. 12
+n_obj................ 16
+n_free_chunks........ 32755
+
+n_page_writes........ 43602
+n_page_reads......... 12330
+n_erasures........... 490
+n_gc_copies.......... 3
+all_gcs.............. 2227
+passive_gc_count..... 2223
+oldest_dirty_gc_count 0
+n_gc_blocks.......... 323
+bg_gcs............... 316
+Done gc time test

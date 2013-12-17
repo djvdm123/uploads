@@ -1,0 +1,397 @@
+start
+Multi-version YAFFS built:Nov 10 2013 05:12:54
+
+
+Device 0 "NAND simulator partition 0"
+start_block.......... 0
+end_block............ 1023
+total_bytes_per_chunk 512
+use_nand_ecc......... 1
+no_tags_ecc.......... 0
+is_yaffs2............ 0
+inband_tags.......... 0
+empty_lost_n_found... 1
+disable_lazy_load.... 0
+refresh_period....... 500
+n_caches............. 10
+n_reserved_blocks.... 5
+always_check_erased.. 0
+
+max file size....... 137438952960
+data_bytes_per_chunk. 512
+chunk_grp_bits....... 0
+chunk_grp_size....... 1
+n_erased_blocks...... 1024
+blocks_in_checkpt.... 0
+
+n_tnodes............. 0
+n_obj................ 4
+n_free_chunks........ 32768
+
+n_page_writes........ 0
+n_page_reads......... 0
+n_erasures........... 0
+n_gc_copies.......... 0
+all_gcs.............. 0
+passive_gc_count..... 0
+oldest_dirty_gc_count 0
+n_gc_blocks.......... 0
+bg_gcs............... 0
+n_retried_writes..... 0
+n_retired_blocks..... 0
+n_ecc_fixed.......... 0
+n_ecc_unfixed........ 0
+n_tags_ecc_fixed..... 0
+n_tags_ecc_unfixed... 0
+cache_hits........... 0
+n_deleted_files...... 0
+n_unlinked_files..... 0
+refresh_count........ 0
+n_bg_deletions....... 0
+tags_used............ 0
+summary_used......... 0
+1024+0 records in
+1024+0 records out
+1048576 bytes (1.0 MB) copied, 0.135604 s, 7.7 MB/s
+1024+0 records in
+1024+0 records out
+1048576 bytes (1.0 MB) copied, 0.142381 s, 7.4 MB/s
+1024+0 records in
+1024+0 records out
+1048576 bytes (1.0 MB) copied, 0.13473 s, 7.8 MB/s
+1024+0 records in
+1024+0 records out
+1048576 bytes (1.0 MB) copied, 0.143045 s, 7.3 MB/s
+1024+0 records in
+1024+0 records out
+1048576 bytes (1.0 MB) copied, 0.13216 s, 7.9 MB/s
+1024+0 records in
+1024+0 records out
+1048576 bytes (1.0 MB) copied, 0.136964 s, 7.7 MB/s
+1024+0 records in
+1024+0 records out
+1048576 bytes (1.0 MB) copied, 0.140368 s, 7.5 MB/s
+1024+0 records in
+1024+0 records out
+1048576 bytes (1.0 MB) copied, 0.141185 s, 7.4 MB/s
+1024+0 records in
+1024+0 records out
+1048576 bytes (1.0 MB) copied, 0.131482 s, 8.0 MB/s
+1024+0 records in
+1024+0 records out
+1048576 bytes (1.0 MB) copied, 0.132711 s, 7.9 MB/s
+1024+0 records in
+1024+0 records out
+1048576 bytes (1.0 MB) copied, 0.139649 s, 7.5 MB/s
+1024+0 records in
+1024+0 records out
+1048576 bytes (1.0 MB) copied, 0.134795 s, 7.8 MB/s
+1024+0 records in
+1024+0 records out
+1048576 bytes (1.0 MB) copied, 0.13487 s, 7.8 MB/s
+1024+0 records in
+1024+0 records out
+1048576 bytes (1.0 MB) copied, 0.136007 s, 7.7 MB/s
+1024+0 records in
+1024+0 records out
+1048576 bytes (1.0 MB) copied, 0.136763 s, 7.7 MB/s
+dd: writing `/mnt/yaffs2/15': No space left on device
+911+0 records in
+910+0 records out
+931840 bytes (932 kB) copied, 0.117829 s, 7.9 MB/s
+dd: writing `/mnt/yaffs2/16': No space left on device
+1+0 records in
+0+0 records out
+0 bytes (0 B) copied, 0.000427363 s, 0.0 kB/s
+dd: writing `/mnt/yaffs2/17': No space left on device
+1+0 records in
+0+0 records out
+0 bytes (0 B) copied, 0.000413108 s, 0.0 kB/s
+dd: writing `/mnt/yaffs2/18': No space left on device
+1+0 records in
+0+0 records out
+0 bytes (0 B) copied, 0.000435748 s, 0.0 kB/s
+dd: writing `/mnt/yaffs2/19': No space left on device
+1+0 records in
+0+0 records out
+0 bytes (0 B) copied, 0.000398853 s, 0.0 kB/s
+dd: writing `/mnt/yaffs2/20': No space left on device
+1+0 records in
+0+0 records out
+0 bytes (0 B) copied, 0.000413667 s, 0.0 kB/s
+dd: writing `/mnt/yaffs2/21': No space left on device
+1+0 records in
+0+0 records out
+0 bytes (0 B) copied, 0.00040025 s, 0.0 kB/s
+dd: writing `/mnt/yaffs2/22': No space left on device
+1+0 records in
+0+0 records out
+0 bytes (0 B) copied, 0.000419257 s, 0.0 kB/s
+dd: writing `/mnt/yaffs2/23': No space left on device
+1+0 records in
+0+0 records out
+0 bytes (0 B) copied, 0.000405003 s, 0.0 kB/s
+dd: writing `/mnt/yaffs2/24': No space left on device
+1+0 records in
+0+0 records out
+0 bytes (0 B) copied, 0.000410313 s, 0.0 kB/s
+dd: writing `/mnt/yaffs2/25': No space left on device
+1+0 records in
+0+0 records out
+0 bytes (0 B) copied, 0.000413667 s, 0.0 kB/s
+dd: writing `/mnt/yaffs2/26': No space left on device
+1+0 records in
+0+0 records out
+0 bytes (0 B) copied, 0.00041814 s, 0.0 kB/s
+dd: writing `/mnt/yaffs2/27': No space left on device
+1+0 records in
+0+0 records out
+0 bytes (0 B) copied, 0.00042317 s, 0.0 kB/s
+dd: writing `/mnt/yaffs2/28': No space left on device
+1+0 records in
+0+0 records out
+0 bytes (0 B) copied, 0.000435189 s, 0.0 kB/s
+dd: writing `/mnt/yaffs2/29': No space left on device
+1+0 records in
+0+0 records out
+0 bytes (0 B) copied, 0.000420095 s, 0.0 kB/s
+dd: writing `/mnt/yaffs2/30': No space left on device
+1+0 records in
+0+0 records out
+0 bytes (0 B) copied, 0.000427643 s, 0.0 kB/s
+dd: writing `/mnt/yaffs2/31': No space left on device
+1+0 records in
+0+0 records out
+0 bytes (0 B) copied, 0.000427083 s, 0.0 kB/s
+32 x 1MB written
+Multi-version YAFFS built:Nov 10 2013 05:12:54
+
+
+Device 0 "NAND simulator partition 0"
+start_block.......... 0
+end_block............ 1023
+total_bytes_per_chunk 512
+use_nand_ecc......... 1
+no_tags_ecc.......... 0
+is_yaffs2............ 0
+inband_tags.......... 0
+empty_lost_n_found... 1
+disable_lazy_load.... 0
+refresh_period....... 500
+n_caches............. 10
+n_reserved_blocks.... 5
+always_check_erased.. 0
+
+max file size....... 137438952960
+data_bytes_per_chunk. 512
+chunk_grp_bits....... 0
+chunk_grp_size....... 1
+n_erased_blocks...... 5
+blocks_in_checkpt.... 0
+
+n_tnodes............. 2398
+n_obj................ 36
+n_free_chunks........ 195
+
+n_page_writes........ 33010
+n_page_reads......... 2500
+n_erasures........... 13
+n_gc_copies.......... 403
+all_gcs.............. 13
+passive_gc_count..... 0
+oldest_dirty_gc_count 0
+n_gc_blocks.......... 13
+bg_gcs............... 0
+n_retried_writes..... 0
+n_retired_blocks..... 0
+n_ecc_fixed.......... 0
+n_ecc_unfixed........ 0
+n_tags_ecc_fixed..... 0
+n_tags_ecc_unfixed... 0
+cache_hits........... 0
+n_deleted_files...... 0
+n_unlinked_files..... 0
+refresh_count........ 0
+n_bg_deletions....... 0
+tags_used............ 0
+summary_used......... 0
+dd: writing `/mnt/yaffs2/xx': No space left on device
+1+0 records in
+0+0 records out
+0 bytes (0 B) copied, 0.000420655 s, 0.0 kB/s
+dd: writing `/mnt/yaffs2/xx': No space left on device
+1+0 records in
+0+0 records out
+0 bytes (0 B) copied, 0.000409474 s, 0.0 kB/s
+dd: writing `/mnt/yaffs2/xx': No space left on device
+1+0 records in
+0+0 records out
+0 bytes (0 B) copied, 0.00041199 s, 0.0 kB/s
+dd: writing `/mnt/yaffs2/xx': No space left on device
+1+0 records in
+0+0 records out
+0 bytes (0 B) copied, 0.000410592 s, 0.0 kB/s
+dd: writing `/mnt/yaffs2/xx': No space left on device
+1+0 records in
+0+0 records out
+0 bytes (0 B) copied, 0.00040612 s, 0.0 kB/s
+dd: writing `/mnt/yaffs2/xx': No space left on device
+1+0 records in
+0+0 records out
+0 bytes (0 B) copied, 0.000407798 s, 0.0 kB/s
+dd: writing `/mnt/yaffs2/xx': No space left on device
+1+0 records in
+0+0 records out
+0 bytes (0 B) copied, 0.00040612 s, 0.0 kB/s
+dd: writing `/mnt/yaffs2/xx': No space left on device
+1+0 records in
+0+0 records out
+0 bytes (0 B) copied, 0.000399692 s, 0.0 kB/s
+dd: writing `/mnt/yaffs2/xx': No space left on device
+1+0 records in
+0+0 records out
+0 bytes (0 B) copied, 0.000410872 s, 0.0 kB/s
+dd: writing `/mnt/yaffs2/xx': No space left on device
+1+0 records in
+0+0 records out
+0 bytes (0 B) copied, 0.000405003 s, 0.0 kB/s
+dd: writing `/mnt/yaffs2/xx': No space left on device
+1+0 records in
+0+0 records out
+0 bytes (0 B) copied, 0.000958422 s, 0.0 kB/s
+dd: writing `/mnt/yaffs2/xx': No space left on device
+1+0 records in
+0+0 records out
+0 bytes (0 B) copied, 0.000405561 s, 0.0 kB/s
+dd: writing `/mnt/yaffs2/xx': No space left on device
+1+0 records in
+0+0 records out
+0 bytes (0 B) copied, 0.000413947 s, 0.0 kB/s
+dd: writing `/mnt/yaffs2/xx': No space left on device
+1+0 records in
+0+0 records out
+0 bytes (0 B) copied, 0.000422052 s, 0.0 kB/s
+dd: writing `/mnt/yaffs2/xx': No space left on device
+1+0 records in
+0+0 records out
+0 bytes (0 B) copied, 0.00042904 s, 0.0 kB/s
+dd: writing `/mnt/yaffs2/xx': No space left on device
+1+0 records in
+0+0 records out
+0 bytes (0 B) copied, 0.000408077 s, 0.0 kB/s
+dd: writing `/mnt/yaffs2/xx': No space left on device
+1+0 records in
+0+0 records out
+0 bytes (0 B) copied, 0.00041199 s, 0.0 kB/s
+dd: writing `/mnt/yaffs2/xx': No space left on device
+1+0 records in
+0+0 records out
+0 bytes (0 B) copied, 0.000408077 s, 0.0 kB/s
+dd: writing `/mnt/yaffs2/xx': No space left on device
+1+0 records in
+0+0 records out
+0 bytes (0 B) copied, 0.000491649 s, 0.0 kB/s
+dd: writing `/mnt/yaffs2/xx': No space left on device
+1+0 records in
+0+0 records out
+0 bytes (0 B) copied, 0.000406121 s, 0.0 kB/s
+dd: writing `/mnt/yaffs2/xx': No space left on device
+1+0 records in
+0+0 records out
+0 bytes (0 B) copied, 0.000404444 s, 0.0 kB/s
+dd: writing `/mnt/yaffs2/xx': No space left on device
+1+0 records in
+0+0 records out
+0 bytes (0 B) copied, 0.000410313 s, 0.0 kB/s
+dd: writing `/mnt/yaffs2/xx': No space left on device
+1+0 records in
+0+0 records out
+0 bytes (0 B) copied, 0.00032171 s, 0.0 kB/s
+dd: writing `/mnt/yaffs2/xx': No space left on device
+1+0 records in
+0+0 records out
+0 bytes (0 B) copied, 0.000412549 s, 0.0 kB/s
+dd: writing `/mnt/yaffs2/xx': No space left on device
+1+0 records in
+0+0 records out
+0 bytes (0 B) copied, 0.000399971 s, 0.0 kB/s
+dd: writing `/mnt/yaffs2/xx': No space left on device
+1+0 records in
+0+0 records out
+0 bytes (0 B) copied, 0.000408636 s, 0.0 kB/s
+dd: writing `/mnt/yaffs2/xx': No space left on device
+1+0 records in
+0+0 records out
+0 bytes (0 B) copied, 0.000401648 s, 0.0 kB/s
+dd: writing `/mnt/yaffs2/xx': No space left on device
+1+0 records in
+0+0 records out
+0 bytes (0 B) copied, 0.000405002 s, 0.0 kB/s
+dd: writing `/mnt/yaffs2/xx': No space left on device
+1+0 records in
+0+0 records out
+0 bytes (0 B) copied, 0.0004064 s, 0.0 kB/s
+dd: writing `/mnt/yaffs2/xx': No space left on device
+1+0 records in
+0+0 records out
+0 bytes (0 B) copied, 0.000420375 s, 0.0 kB/s
+dd: writing `/mnt/yaffs2/xx': No space left on device
+1+0 records in
+0+0 records out
+0 bytes (0 B) copied, 0.000433512 s, 0.0 kB/s
+dd: writing `/mnt/yaffs2/xx': No space left on device
+1+0 records in
+0+0 records out
+0 bytes (0 B) copied, 0.000409475 s, 0.0 kB/s
+32 x 1MB overwites
+Multi-version YAFFS built:Nov 10 2013 05:12:54
+
+
+Device 0 "NAND simulator partition 0"
+start_block.......... 0
+end_block............ 1023
+total_bytes_per_chunk 512
+use_nand_ecc......... 1
+no_tags_ecc.......... 0
+is_yaffs2............ 0
+inband_tags.......... 0
+empty_lost_n_found... 1
+disable_lazy_load.... 0
+refresh_period....... 500
+n_caches............. 10
+n_reserved_blocks.... 5
+always_check_erased.. 0
+
+max file size....... 137438952960
+data_bytes_per_chunk. 512
+chunk_grp_bits....... 0
+chunk_grp_size....... 1
+n_erased_blocks...... 5
+blocks_in_checkpt.... 0
+
+n_tnodes............. 2399
+n_obj................ 37
+n_free_chunks........ 194
+
+n_page_writes........ 34065
+n_page_reads......... 3524
+n_erasures........... 45
+n_gc_copies.......... 1395
+all_gcs.............. 45
+passive_gc_count..... 0
+oldest_dirty_gc_count 0
+n_gc_blocks.......... 45
+bg_gcs............... 0
+n_retried_writes..... 0
+n_retired_blocks..... 0
+n_ecc_fixed.......... 0
+n_ecc_unfixed........ 0
+n_tags_ecc_fixed..... 0
+n_tags_ecc_unfixed... 0
+cache_hits........... 0
+n_deleted_files...... 0
+n_unlinked_files..... 0
+refresh_count........ 0
+n_bg_deletions....... 0
+tags_used............ 0
+summary_used......... 0
