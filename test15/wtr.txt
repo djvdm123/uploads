@@ -1,5 +1,5 @@
 start
-Multi-version YAFFS built:May 11 2012 00:36:49
+Multi-version YAFFS built:Dec 18 2013 04:53:59
 
 
 Device 0 "NAND simulator partition 0"
@@ -50,13 +50,15 @@ refresh_count........ 0
 n_bg_deletions....... 0
 tags_used............ 0
 summary_used......... 0
-dd: opening `/mnt/yaffs2/0': Permission denied
-n_tnodes............. 0
-n_obj................ 4
-n_free_chunks........ 32768
+1024+0 records in
+1024+0 records out
+1048576 bytes (1.0 MB) copied, 0.137665 s, 7.6 MB/s
+n_tnodes............. 150
+n_obj................ 5
+n_free_chunks........ 30719
 
-n_page_writes........ 0
-n_page_reads......... 0
+n_page_writes........ 2051
+n_page_reads......... 132
 n_erasures........... 0
 n_gc_copies.......... 0
 all_gcs.............. 0
@@ -64,13 +66,15 @@ passive_gc_count..... 0
 oldest_dirty_gc_count 0
 n_gc_blocks.......... 0
 bg_gcs............... 0
-dd: opening `/mnt/yaffs2/1': Permission denied
-n_tnodes............. 0
-n_obj................ 4
-n_free_chunks........ 32768
+1024+0 records in
+1024+0 records out
+1048576 bytes (1.0 MB) copied, 0.130497 s, 8.0 MB/s
+n_tnodes............. 300
+n_obj................ 6
+n_free_chunks........ 28670
 
-n_page_writes........ 0
-n_page_reads......... 0
+n_page_writes........ 4102
+n_page_reads......... 262
 n_erasures........... 0
 n_gc_copies.......... 0
 all_gcs.............. 0
@@ -78,13 +82,15 @@ passive_gc_count..... 0
 oldest_dirty_gc_count 0
 n_gc_blocks.......... 0
 bg_gcs............... 0
-dd: opening `/mnt/yaffs2/2': Permission denied
-n_tnodes............. 0
-n_obj................ 4
-n_free_chunks........ 32768
+1024+0 records in
+1024+0 records out
+1048576 bytes (1.0 MB) copied, 0.185941 s, 5.6 MB/s
+n_tnodes............. 450
+n_obj................ 7
+n_free_chunks........ 26621
 
-n_page_writes........ 0
-n_page_reads......... 0
+n_page_writes........ 6153
+n_page_reads......... 392
 n_erasures........... 0
 n_gc_copies.......... 0
 all_gcs.............. 0
@@ -92,13 +98,15 @@ passive_gc_count..... 0
 oldest_dirty_gc_count 0
 n_gc_blocks.......... 0
 bg_gcs............... 0
-dd: opening `/mnt/yaffs2/3': Permission denied
-n_tnodes............. 0
-n_obj................ 4
-n_free_chunks........ 32768
+1024+0 records in
+1024+0 records out
+1048576 bytes (1.0 MB) copied, 0.129498 s, 8.1 MB/s
+n_tnodes............. 600
+n_obj................ 8
+n_free_chunks........ 24571
 
-n_page_writes........ 0
-n_page_reads......... 0
+n_page_writes........ 8205
+n_page_reads......... 522
 n_erasures........... 0
 n_gc_copies.......... 0
 all_gcs.............. 0
@@ -106,13 +114,15 @@ passive_gc_count..... 0
 oldest_dirty_gc_count 0
 n_gc_blocks.......... 0
 bg_gcs............... 0
-dd: opening `/mnt/yaffs2/4': Permission denied
-n_tnodes............. 0
-n_obj................ 4
-n_free_chunks........ 32768
+1024+0 records in
+1024+0 records out
+1048576 bytes (1.0 MB) copied, 0.159422 s, 6.6 MB/s
+n_tnodes............. 750
+n_obj................ 9
+n_free_chunks........ 22522
 
-n_page_writes........ 0
-n_page_reads......... 0
+n_page_writes........ 10256
+n_page_reads......... 652
 n_erasures........... 0
 n_gc_copies.......... 0
 all_gcs.............. 0
@@ -120,13 +130,15 @@ passive_gc_count..... 0
 oldest_dirty_gc_count 0
 n_gc_blocks.......... 0
 bg_gcs............... 0
-dd: opening `/mnt/yaffs2/5': Permission denied
-n_tnodes............. 0
-n_obj................ 4
-n_free_chunks........ 32768
+1024+0 records in
+1024+0 records out
+1048576 bytes (1.0 MB) copied, 0.128885 s, 8.1 MB/s
+n_tnodes............. 900
+n_obj................ 10
+n_free_chunks........ 20473
 
-n_page_writes........ 0
-n_page_reads......... 0
+n_page_writes........ 12307
+n_page_reads......... 782
 n_erasures........... 0
 n_gc_copies.......... 0
 all_gcs.............. 0
@@ -134,13 +146,15 @@ passive_gc_count..... 0
 oldest_dirty_gc_count 0
 n_gc_blocks.......... 0
 bg_gcs............... 0
-dd: opening `/mnt/yaffs2/6': Permission denied
-n_tnodes............. 0
-n_obj................ 4
-n_free_chunks........ 32768
+1024+0 records in
+1024+0 records out
+1048576 bytes (1.0 MB) copied, 0.131093 s, 8.0 MB/s
+n_tnodes............. 1050
+n_obj................ 11
+n_free_chunks........ 18424
 
-n_page_writes........ 0
-n_page_reads......... 0
+n_page_writes........ 14358
+n_page_reads......... 912
 n_erasures........... 0
 n_gc_copies.......... 0
 all_gcs.............. 0
@@ -148,13 +162,15 @@ passive_gc_count..... 0
 oldest_dirty_gc_count 0
 n_gc_blocks.......... 0
 bg_gcs............... 0
-dd: opening `/mnt/yaffs2/7': Permission denied
-n_tnodes............. 0
-n_obj................ 4
-n_free_chunks........ 32768
+1024+0 records in
+1024+0 records out
+1048576 bytes (1.0 MB) copied, 0.130233 s, 8.1 MB/s
+n_tnodes............. 1200
+n_obj................ 12
+n_free_chunks........ 16375
 
-n_page_writes........ 0
-n_page_reads......... 0
+n_page_writes........ 16409
+n_page_reads......... 1042
 n_erasures........... 0
 n_gc_copies.......... 0
 all_gcs.............. 0
@@ -162,13 +178,15 @@ passive_gc_count..... 0
 oldest_dirty_gc_count 0
 n_gc_blocks.......... 0
 bg_gcs............... 0
-dd: opening `/mnt/yaffs2/8': Permission denied
-n_tnodes............. 0
-n_obj................ 4
-n_free_chunks........ 32768
+1024+0 records in
+1024+0 records out
+1048576 bytes (1.0 MB) copied, 0.173565 s, 6.0 MB/s
+n_tnodes............. 1350
+n_obj................ 13
+n_free_chunks........ 14326
 
-n_page_writes........ 0
-n_page_reads......... 0
+n_page_writes........ 18460
+n_page_reads......... 1172
 n_erasures........... 0
 n_gc_copies.......... 0
 all_gcs.............. 0
@@ -176,13 +194,15 @@ passive_gc_count..... 0
 oldest_dirty_gc_count 0
 n_gc_blocks.......... 0
 bg_gcs............... 0
-dd: opening `/mnt/yaffs2/9': Permission denied
-n_tnodes............. 0
-n_obj................ 4
-n_free_chunks........ 32768
+1024+0 records in
+1024+0 records out
+1048576 bytes (1.0 MB) copied, 0.131539 s, 8.0 MB/s
+n_tnodes............. 1500
+n_obj................ 14
+n_free_chunks........ 12277
 
-n_page_writes........ 0
-n_page_reads......... 0
+n_page_writes........ 20511
+n_page_reads......... 1302
 n_erasures........... 0
 n_gc_copies.......... 0
 all_gcs.............. 0
@@ -190,13 +210,15 @@ passive_gc_count..... 0
 oldest_dirty_gc_count 0
 n_gc_blocks.......... 0
 bg_gcs............... 0
-dd: opening `/mnt/yaffs2/10': Permission denied
-n_tnodes............. 0
-n_obj................ 4
-n_free_chunks........ 32768
+1024+0 records in
+1024+0 records out
+1048576 bytes (1.0 MB) copied, 0.132852 s, 7.9 MB/s
+n_tnodes............. 1650
+n_obj................ 15
+n_free_chunks........ 10228
 
-n_page_writes........ 0
-n_page_reads......... 0
+n_page_writes........ 22564
+n_page_reads......... 1433
 n_erasures........... 0
 n_gc_copies.......... 0
 all_gcs.............. 0
@@ -204,13 +226,15 @@ passive_gc_count..... 0
 oldest_dirty_gc_count 0
 n_gc_blocks.......... 0
 bg_gcs............... 0
-dd: opening `/mnt/yaffs2/11': Permission denied
-n_tnodes............. 0
-n_obj................ 4
-n_free_chunks........ 32768
+1024+0 records in
+1024+0 records out
+1048576 bytes (1.0 MB) copied, 0.190666 s, 5.5 MB/s
+n_tnodes............. 1800
+n_obj................ 16
+n_free_chunks........ 8179
 
-n_page_writes........ 0
-n_page_reads......... 0
+n_page_writes........ 24619
+n_page_reads......... 1565
 n_erasures........... 0
 n_gc_copies.......... 0
 all_gcs.............. 0
@@ -218,13 +242,15 @@ passive_gc_count..... 0
 oldest_dirty_gc_count 0
 n_gc_blocks.......... 0
 bg_gcs............... 0
-dd: opening `/mnt/yaffs2/12': Permission denied
-n_tnodes............. 0
-n_obj................ 4
-n_free_chunks........ 32768
+1024+0 records in
+1024+0 records out
+1048576 bytes (1.0 MB) copied, 0.133912 s, 7.8 MB/s
+n_tnodes............. 1950
+n_obj................ 17
+n_free_chunks........ 6130
 
-n_page_writes........ 0
-n_page_reads......... 0
+n_page_writes........ 26670
+n_page_reads......... 1695
 n_erasures........... 0
 n_gc_copies.......... 0
 all_gcs.............. 0
@@ -232,13 +258,15 @@ passive_gc_count..... 0
 oldest_dirty_gc_count 0
 n_gc_blocks.......... 0
 bg_gcs............... 0
-dd: opening `/mnt/yaffs2/13': Permission denied
-n_tnodes............. 0
-n_obj................ 4
-n_free_chunks........ 32768
+1024+0 records in
+1024+0 records out
+1048576 bytes (1.0 MB) copied, 0.153278 s, 6.8 MB/s
+n_tnodes............. 2100
+n_obj................ 18
+n_free_chunks........ 4081
 
-n_page_writes........ 0
-n_page_reads......... 0
+n_page_writes........ 28721
+n_page_reads......... 1825
 n_erasures........... 0
 n_gc_copies.......... 0
 all_gcs.............. 0
@@ -246,13 +274,15 @@ passive_gc_count..... 0
 oldest_dirty_gc_count 0
 n_gc_blocks.......... 0
 bg_gcs............... 0
-dd: opening `/mnt/yaffs2/14': Permission denied
-n_tnodes............. 0
-n_obj................ 4
-n_free_chunks........ 32768
+1024+0 records in
+1024+0 records out
+1048576 bytes (1.0 MB) copied, 0.156017 s, 6.7 MB/s
+n_tnodes............. 2250
+n_obj................ 19
+n_free_chunks........ 2032
 
-n_page_writes........ 0
-n_page_reads......... 0
+n_page_writes........ 30772
+n_page_reads......... 1957
 n_erasures........... 0
 n_gc_copies.......... 0
 all_gcs.............. 0
@@ -261,7 +291,7 @@ oldest_dirty_gc_count 0
 n_gc_blocks.......... 0
 bg_gcs............... 0
 15 x 1MB written
-Multi-version YAFFS built:May 11 2012 00:36:49
+Multi-version YAFFS built:Dec 18 2013 04:53:59
 
 
 Device 0 "NAND simulator partition 0"
@@ -283,15 +313,15 @@ max file size....... 137438952960
 data_bytes_per_chunk. 512
 chunk_grp_bits....... 0
 chunk_grp_size....... 1
-n_erased_blocks...... 1024
+n_erased_blocks...... 62
 blocks_in_checkpt.... 0
 
-n_tnodes............. 0
-n_obj................ 4
-n_free_chunks........ 32768
+n_tnodes............. 2250
+n_obj................ 19
+n_free_chunks........ 2032
 
-n_page_writes........ 0
-n_page_reads......... 0
+n_page_writes........ 30772
+n_page_reads......... 1957
 n_erasures........... 0
 n_gc_copies.......... 0
 all_gcs.............. 0
@@ -312,13 +342,16 @@ refresh_count........ 0
 n_bg_deletions....... 0
 tags_used............ 0
 summary_used......... 0
-dd: opening `/mnt/yaffs2/xx': Permission denied
-n_tnodes............. 0
-n_obj................ 4
-n_free_chunks........ 32768
+dd: writing `/mnt/yaffs2/xx': No space left on device
+911+0 records in
+910+0 records out
+931840 bytes (932 kB) copied, 0.115478 s, 8.1 MB/s
+n_tnodes............. 2382
+n_obj................ 20
+n_free_chunks........ 211
 
-n_page_writes........ 0
-n_page_reads......... 0
+n_page_writes........ 32595
+n_page_reads......... 2071
 n_erasures........... 0
 n_gc_copies.......... 0
 all_gcs.............. 0
@@ -326,50 +359,59 @@ passive_gc_count..... 0
 oldest_dirty_gc_count 0
 n_gc_blocks.......... 0
 bg_gcs............... 0
-dd: opening `/mnt/yaffs2/xx': Permission denied
-n_tnodes............. 0
-n_obj................ 4
-n_free_chunks........ 32768
+dd: writing `/mnt/yaffs2/xx': No space left on device
+911+0 records in
+910+0 records out
+931840 bytes (932 kB) copied, 0.11617 s, 8.0 MB/s
+n_tnodes............. 2382
+n_obj................ 20
+n_free_chunks........ 211
 
-n_page_writes........ 0
-n_page_reads......... 0
-n_erasures........... 0
-n_gc_copies.......... 0
-all_gcs.............. 0
+n_page_writes........ 36275
+n_page_reads......... 2119
+n_erasures........... 58
+n_gc_copies.......... 32
+all_gcs.............. 2
 passive_gc_count..... 0
 oldest_dirty_gc_count 0
-n_gc_blocks.......... 0
+n_gc_blocks.......... 2
 bg_gcs............... 0
-dd: opening `/mnt/yaffs2/xx': Permission denied
-n_tnodes............. 0
-n_obj................ 4
-n_free_chunks........ 32768
+dd: writing `/mnt/yaffs2/xx': No space left on device
+911+0 records in
+910+0 records out
+931840 bytes (932 kB) copied, 0.115681 s, 8.1 MB/s
+n_tnodes............. 2382
+n_obj................ 20
+n_free_chunks........ 211
 
-n_page_writes........ 0
-n_page_reads......... 0
-n_erasures........... 0
-n_gc_copies.......... 0
-all_gcs.............. 0
+n_page_writes........ 39954
+n_page_reads......... 2155
+n_erasures........... 116
+n_gc_copies.......... 65
+all_gcs.............. 5
 passive_gc_count..... 0
 oldest_dirty_gc_count 0
-n_gc_blocks.......... 0
+n_gc_blocks.......... 5
 bg_gcs............... 0
-dd: opening `/mnt/yaffs2/xx': Permission denied
-n_tnodes............. 0
-n_obj................ 4
-n_free_chunks........ 32768
+dd: writing `/mnt/yaffs2/xx': No space left on device
+911+0 records in
+910+0 records out
+931840 bytes (932 kB) copied, 0.142988 s, 6.5 MB/s
+n_tnodes............. 2382
+n_obj................ 20
+n_free_chunks........ 211
 
-n_page_writes........ 0
-n_page_reads......... 0
-n_erasures........... 0
-n_gc_copies.......... 0
-all_gcs.............. 0
+n_page_writes........ 43633
+n_page_reads......... 2191
+n_erasures........... 174
+n_gc_copies.......... 98
+all_gcs.............. 8
 passive_gc_count..... 0
 oldest_dirty_gc_count 0
-n_gc_blocks.......... 0
+n_gc_blocks.......... 8
 bg_gcs............... 0
 4 x 1MB overwites
-Multi-version YAFFS built:May 11 2012 00:36:49
+Multi-version YAFFS built:Dec 18 2013 04:53:59
 
 
 Device 0 "NAND simulator partition 0"
@@ -391,21 +433,21 @@ max file size....... 137438952960
 data_bytes_per_chunk. 512
 chunk_grp_bits....... 0
 chunk_grp_size....... 1
-n_erased_blocks...... 1024
+n_erased_blocks...... 6
 blocks_in_checkpt.... 0
 
-n_tnodes............. 0
-n_obj................ 4
-n_free_chunks........ 32768
+n_tnodes............. 2382
+n_obj................ 20
+n_free_chunks........ 211
 
-n_page_writes........ 0
-n_page_reads......... 0
-n_erasures........... 0
-n_gc_copies.......... 0
-all_gcs.............. 0
+n_page_writes........ 43633
+n_page_reads......... 2191
+n_erasures........... 174
+n_gc_copies.......... 98
+all_gcs.............. 8
 passive_gc_count..... 0
 oldest_dirty_gc_count 0
-n_gc_blocks.......... 0
+n_gc_blocks.......... 8
 bg_gcs............... 0
 n_retried_writes..... 0
 n_retired_blocks..... 0
