@@ -52,7 +52,7 @@ tags_used............ 0
 summary_used......... 0
 1024+0 records in
 1024+0 records out
-1048576 bytes (1.0 MB) copied, 0.137665 s, 7.6 MB/s
+1048576 bytes (1.0 MB) copied, 0.129772 s, 8.1 MB/s
 n_tnodes............. 150
 n_obj................ 5
 n_free_chunks........ 30719
@@ -68,7 +68,7 @@ n_gc_blocks.......... 0
 bg_gcs............... 0
 1024+0 records in
 1024+0 records out
-1048576 bytes (1.0 MB) copied, 0.130497 s, 8.0 MB/s
+1048576 bytes (1.0 MB) copied, 0.130893 s, 8.0 MB/s
 n_tnodes............. 300
 n_obj................ 6
 n_free_chunks........ 28670
@@ -84,7 +84,7 @@ n_gc_blocks.......... 0
 bg_gcs............... 0
 1024+0 records in
 1024+0 records out
-1048576 bytes (1.0 MB) copied, 0.185941 s, 5.6 MB/s
+1048576 bytes (1.0 MB) copied, 0.139167 s, 7.5 MB/s
 n_tnodes............. 450
 n_obj................ 7
 n_free_chunks........ 26621
@@ -100,12 +100,12 @@ n_gc_blocks.......... 0
 bg_gcs............... 0
 1024+0 records in
 1024+0 records out
-1048576 bytes (1.0 MB) copied, 0.129498 s, 8.1 MB/s
+1048576 bytes (1.0 MB) copied, 0.131918 s, 7.9 MB/s
 n_tnodes............. 600
 n_obj................ 8
-n_free_chunks........ 24571
+n_free_chunks........ 24572
 
-n_page_writes........ 8205
+n_page_writes........ 8204
 n_page_reads......... 522
 n_erasures........... 0
 n_gc_copies.......... 0
@@ -116,7 +116,7 @@ n_gc_blocks.......... 0
 bg_gcs............... 0
 1024+0 records in
 1024+0 records out
-1048576 bytes (1.0 MB) copied, 0.159422 s, 6.6 MB/s
+1048576 bytes (1.0 MB) copied, 0.133069 s, 7.9 MB/s
 n_tnodes............. 750
 n_obj................ 9
 n_free_chunks........ 22522
@@ -132,7 +132,7 @@ n_gc_blocks.......... 0
 bg_gcs............... 0
 1024+0 records in
 1024+0 records out
-1048576 bytes (1.0 MB) copied, 0.128885 s, 8.1 MB/s
+1048576 bytes (1.0 MB) copied, 0.134769 s, 7.8 MB/s
 n_tnodes............. 900
 n_obj................ 10
 n_free_chunks........ 20473
@@ -148,7 +148,7 @@ n_gc_blocks.......... 0
 bg_gcs............... 0
 1024+0 records in
 1024+0 records out
-1048576 bytes (1.0 MB) copied, 0.131093 s, 8.0 MB/s
+1048576 bytes (1.0 MB) copied, 0.140007 s, 7.5 MB/s
 n_tnodes............. 1050
 n_obj................ 11
 n_free_chunks........ 18424
@@ -164,7 +164,7 @@ n_gc_blocks.......... 0
 bg_gcs............... 0
 1024+0 records in
 1024+0 records out
-1048576 bytes (1.0 MB) copied, 0.130233 s, 8.1 MB/s
+1048576 bytes (1.0 MB) copied, 0.133314 s, 7.9 MB/s
 n_tnodes............. 1200
 n_obj................ 12
 n_free_chunks........ 16375
@@ -180,7 +180,7 @@ n_gc_blocks.......... 0
 bg_gcs............... 0
 1024+0 records in
 1024+0 records out
-1048576 bytes (1.0 MB) copied, 0.173565 s, 6.0 MB/s
+1048576 bytes (1.0 MB) copied, 0.134498 s, 7.8 MB/s
 n_tnodes............. 1350
 n_obj................ 13
 n_free_chunks........ 14326
@@ -196,7 +196,7 @@ n_gc_blocks.......... 0
 bg_gcs............... 0
 1024+0 records in
 1024+0 records out
-1048576 bytes (1.0 MB) copied, 0.131539 s, 8.0 MB/s
+1048576 bytes (1.0 MB) copied, 0.167474 s, 6.3 MB/s
 n_tnodes............. 1500
 n_obj................ 14
 n_free_chunks........ 12277
@@ -212,13 +212,13 @@ n_gc_blocks.......... 0
 bg_gcs............... 0
 1024+0 records in
 1024+0 records out
-1048576 bytes (1.0 MB) copied, 0.132852 s, 7.9 MB/s
+1048576 bytes (1.0 MB) copied, 0.141031 s, 7.4 MB/s
 n_tnodes............. 1650
 n_obj................ 15
 n_free_chunks........ 10228
 
-n_page_writes........ 22564
-n_page_reads......... 1433
+n_page_writes........ 22562
+n_page_reads......... 1432
 n_erasures........... 0
 n_gc_copies.......... 0
 all_gcs.............. 0
@@ -228,13 +228,13 @@ n_gc_blocks.......... 0
 bg_gcs............... 0
 1024+0 records in
 1024+0 records out
-1048576 bytes (1.0 MB) copied, 0.190666 s, 5.5 MB/s
+1048576 bytes (1.0 MB) copied, 0.133393 s, 7.9 MB/s
 n_tnodes............. 1800
 n_obj................ 16
 n_free_chunks........ 8179
 
-n_page_writes........ 24619
-n_page_reads......... 1565
+n_page_writes........ 24615
+n_page_reads......... 1563
 n_erasures........... 0
 n_gc_copies.......... 0
 all_gcs.............. 0
@@ -244,13 +244,13 @@ n_gc_blocks.......... 0
 bg_gcs............... 0
 1024+0 records in
 1024+0 records out
-1048576 bytes (1.0 MB) copied, 0.133912 s, 7.8 MB/s
+1048576 bytes (1.0 MB) copied, 0.136813 s, 7.7 MB/s
 n_tnodes............. 1950
 n_obj................ 17
 n_free_chunks........ 6130
 
-n_page_writes........ 26670
-n_page_reads......... 1695
+n_page_writes........ 26666
+n_page_reads......... 1693
 n_erasures........... 0
 n_gc_copies.......... 0
 all_gcs.............. 0
@@ -260,13 +260,13 @@ n_gc_blocks.......... 0
 bg_gcs............... 0
 1024+0 records in
 1024+0 records out
-1048576 bytes (1.0 MB) copied, 0.153278 s, 6.8 MB/s
+1048576 bytes (1.0 MB) copied, 0.137855 s, 7.6 MB/s
 n_tnodes............. 2100
 n_obj................ 18
 n_free_chunks........ 4081
 
-n_page_writes........ 28721
-n_page_reads......... 1825
+n_page_writes........ 28717
+n_page_reads......... 1823
 n_erasures........... 0
 n_gc_copies.......... 0
 all_gcs.............. 0
@@ -276,7 +276,7 @@ n_gc_blocks.......... 0
 bg_gcs............... 0
 1024+0 records in
 1024+0 records out
-1048576 bytes (1.0 MB) copied, 0.156017 s, 6.7 MB/s
+1048576 bytes (1.0 MB) copied, 0.137738 s, 7.6 MB/s
 n_tnodes............. 2250
 n_obj................ 19
 n_free_chunks........ 2032
@@ -345,7 +345,7 @@ summary_used......... 0
 dd: writing `/mnt/yaffs2/xx': No space left on device
 911+0 records in
 910+0 records out
-931840 bytes (932 kB) copied, 0.115478 s, 8.1 MB/s
+931840 bytes (932 kB) copied, 0.126147 s, 7.4 MB/s
 n_tnodes............. 2382
 n_obj................ 20
 n_free_chunks........ 211
@@ -362,53 +362,53 @@ bg_gcs............... 0
 dd: writing `/mnt/yaffs2/xx': No space left on device
 911+0 records in
 910+0 records out
-931840 bytes (932 kB) copied, 0.11617 s, 8.0 MB/s
+931840 bytes (932 kB) copied, 0.116705 s, 8.0 MB/s
 n_tnodes............. 2382
 n_obj................ 20
 n_free_chunks........ 211
 
-n_page_writes........ 36275
-n_page_reads......... 2119
-n_erasures........... 58
-n_gc_copies.......... 32
-all_gcs.............. 2
+n_page_writes........ 36243
+n_page_reads......... 2088
+n_erasures........... 57
+n_gc_copies.......... 2
+all_gcs.............. 1
 passive_gc_count..... 0
 oldest_dirty_gc_count 0
-n_gc_blocks.......... 2
+n_gc_blocks.......... 1
 bg_gcs............... 0
 dd: writing `/mnt/yaffs2/xx': No space left on device
 911+0 records in
 910+0 records out
-931840 bytes (932 kB) copied, 0.115681 s, 8.1 MB/s
+931840 bytes (932 kB) copied, 0.154265 s, 6.0 MB/s
 n_tnodes............. 2382
 n_obj................ 20
 n_free_chunks........ 211
 
-n_page_writes........ 39954
-n_page_reads......... 2155
-n_erasures........... 116
-n_gc_copies.......... 65
+n_page_writes........ 39921
+n_page_reads......... 2123
+n_erasures........... 115
+n_gc_copies.......... 34
+all_gcs.............. 3
+passive_gc_count..... 0
+oldest_dirty_gc_count 0
+n_gc_blocks.......... 3
+bg_gcs............... 0
+dd: writing `/mnt/yaffs2/xx': No space left on device
+911+0 records in
+910+0 records out
+931840 bytes (932 kB) copied, 0.121087 s, 7.7 MB/s
+n_tnodes............. 2382
+n_obj................ 20
+n_free_chunks........ 211
+
+n_page_writes........ 43601
+n_page_reads......... 2159
+n_erasures........... 173
+n_gc_copies.......... 66
 all_gcs.............. 5
 passive_gc_count..... 0
 oldest_dirty_gc_count 0
 n_gc_blocks.......... 5
-bg_gcs............... 0
-dd: writing `/mnt/yaffs2/xx': No space left on device
-911+0 records in
-910+0 records out
-931840 bytes (932 kB) copied, 0.142988 s, 6.5 MB/s
-n_tnodes............. 2382
-n_obj................ 20
-n_free_chunks........ 211
-
-n_page_writes........ 43633
-n_page_reads......... 2191
-n_erasures........... 174
-n_gc_copies.......... 98
-all_gcs.............. 8
-passive_gc_count..... 0
-oldest_dirty_gc_count 0
-n_gc_blocks.......... 8
 bg_gcs............... 0
 4 x 1MB overwites
 Multi-version YAFFS built:Dec 18 2013 04:53:59
@@ -440,14 +440,14 @@ n_tnodes............. 2382
 n_obj................ 20
 n_free_chunks........ 211
 
-n_page_writes........ 43633
-n_page_reads......... 2191
-n_erasures........... 174
-n_gc_copies.......... 98
-all_gcs.............. 8
+n_page_writes........ 43601
+n_page_reads......... 2159
+n_erasures........... 173
+n_gc_copies.......... 66
+all_gcs.............. 5
 passive_gc_count..... 0
 oldest_dirty_gc_count 0
-n_gc_blocks.......... 8
+n_gc_blocks.......... 5
 bg_gcs............... 0
 n_retried_writes..... 0
 n_retired_blocks..... 0
