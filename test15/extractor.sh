@@ -1,6 +1,6 @@
 #! /bin/bash
 
-file=ergc.txt
+file=wtr.txt
 
 echo " "
 echo "n_page_writes"
