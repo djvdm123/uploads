@@ -25,3 +25,4 @@ cat $file | grep "passive_gc_count" | cut -d" " -f2
 echo " "
 echo "bg_gcs"
 cat $file | grep "bg_gcs" | cut -d" " -f2
+#
